@@ -425,7 +425,7 @@ body footer .container-foo > .foo > .icons > .icon-ins:hover {
   color: rgb(237, 65, 116);
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 390px) {
   body > header {
     background: url("./images/bacroud.png");
     background-repeat: no-repeat;
